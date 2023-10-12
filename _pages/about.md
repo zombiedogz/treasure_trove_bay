@@ -1,23 +1,19 @@
 ---
 layout: page
-title: About Albakirkey - Left Turn Ahead
+title: About Treasure Trove Bay
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<img src="/albakirkey/assets/images/carrot.png" alt="Carrot" width="230" height="300" style="float: right; margin-right: 20px;">
+<img src="/treasure_trove_bay/assets/images/carrot.png" alt="Carrot" width="230" height="300" style="float: right; margin-right: 20px;">
 <p>
-The phrase "I should have taken a left turn at Albuquerque" is a catchphrase <a target="_blank" href="https://en.wikipedia.org/wiki/Bugs_Bunny" rel="nofollow"><b>Bugs Bunny</b></a> often says when he finds himself in a difficult or compromising situation. The phrase is meant to be humorous and suggests that Bugs Bunny took a wrong turn somewhere, leading him to his current predicament. The expression is closely associated with Bugs Bunny and used as a reference to the character and his mischievous nature.
+Welcome to the site.
 </p>
 
-<p>
-Albakirkey is a play on Albuquerque. It is very hard to spell it, however Al-ba-kir-key is spelled as it sounds. 
-</p>
-<p>
-Here at Albakirkey we provide guidance and let you know a left turn is ahead in lifestyle, travel and product reviews. 
+Here at Treasure Trove Bay we provide guidance about lifestyle, travel, products and reviews. 
 </p>
 <p>
 We give very indepth reviewes of the things we love and let you know about the things we don't.
@@ -32,9 +28,9 @@ This is a fun and informative site and we hope you enjoy it too.
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://zombiedogz.github.io/albakirkey/">Albakirkey</a>.</p>
+<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://zombiedogz.github.io/treasure_trove_bay/">Treasure Trove Bay</a>.</p>
 
-<a target="_blank" href="https://zombiedogz.github.io/albakirkey/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://zombiedogz.github.io/albakirkey/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://zombiedogz.github.io/treasure_trove_bay/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://zombiedogz.github.io/treasure_trove_bay/" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>
