@@ -1,9 +1,9 @@
 # Site
 name: "Treasure Trove Bay"
 title: "⮢ Treasure Trove Bay"
-description: "Lifestyle, Travel and Product Reviews. Left Turn Ahead!"
+description: "Lifestyle, Travel, Products and Reviews"
 logo: 'assets/images/logo.png'
-favicon: 'albakirkey/assets/images/logo.png'
+favicon: 'treasure_trove_bay/assets/images/logo.png'
 baseurl: /treasure_trove_bay
 google_analytics: ''
 disqus: 'New Website'
@@ -14,8 +14,8 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Jack
+    display_name: Jack
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
