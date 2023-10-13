@@ -8,7 +8,6 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<img src="/treasure_trove_bay/assets/images/carrot.png" alt="Carrot" width="230" height="300" style="float: right; margin-right: 20px;">
 <p>
 Welcome to the site.
 </p>
