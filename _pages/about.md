@@ -8,8 +8,9 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
+<img src="/treasure_trove_bay/assets/images/maplogo.png" alt="Carrot" width="230" height="300" style="float: right; margin-right: 20px;">
 
-### Welcome to Treasure Trove Bay, your blog for all things lifestyle, travel, products, and reviews!
+<h2>Welcome to Treasure Trove Bay, your blog for all things lifestyle, travel, products, and reviews!</h2> 
 
 At Treasure Trove Bay, we believe that life is an extraordinary adventure. That's why we're passionate about sharing our love and experinces lifestyle, travel, products, and reviews. On our blog, you'll find in-depth reviews of the products and experiences we love, as well as helpful tips and advice on how to live your best life.
 
