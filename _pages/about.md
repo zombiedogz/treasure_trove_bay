@@ -8,16 +8,18 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<img src="/treasure_trove_bay/assets/images/maplogo.png" alt="Carrot" width="230" height="300" style="float: right; margin-right: 20px;">
+<img src="/treasure_trove_bay/assets/images/maplogo.png" alt="Carrot" width="300" height="300" style="float: right; margin-right: 20px;">
 
-<h2>Welcome to Treasure Trove Bay, your blog for all things lifestyle, travel, products, and reviews!</h2> 
+<h3>Welcome to Treasure Trove Bay, your blog for all things lifestyle, travel, products, and reviews!</h3> 
 
-At Treasure Trove Bay, we believe that life is an extraordinary adventure. That's why we're passionate about sharing our love and experinces lifestyle, travel, products, and reviews. On our blog, you'll find in-depth reviews of the products and experiences we love, as well as helpful tips and advice on how to live your best life.
-
+<p> At Treasure Trove Bay, we believe that life is an extraordinary adventure. That's why we're passionate about sharing our love and experinces lifestyle, travel, products, and reviews. On our blog, you'll find in-depth reviews of the products and experiences we love, as well as helpful tips and advice on how to live your best life.
+</p>
+<p>
 Whether you're looking for inspiration for your next vacation, the perfect gift for a loved one, or simply want to discover new and interesting things, we've got you covered. We're always on the lookout for the latest trends and hidden gems, and we love sharing our finds with our readers.
-
+</p>
+<p>
 So what are you waiting for? Start exploring our blog today and let the thrill of discovery guide you!
-
+</p>
 </div>
 
 <div class="col-md-4">
