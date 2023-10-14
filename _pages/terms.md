@@ -3,7 +3,9 @@ layout: page
 title: Website Terms
 permalink: /terms
 comments: false
+toc: true
 ---
+
 # Table of Contents
 ### Terms of Service
 #### 1. Terms
