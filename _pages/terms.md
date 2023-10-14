@@ -1,12 +1,9 @@
 ---
-layout: post
+layout: page
 title: Website Terms
 permalink: /terms
 comments: false
-hidden: true
-toc: true
 ---
-
 
 <br>
 <br>
