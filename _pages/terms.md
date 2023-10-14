@@ -6,16 +6,6 @@ comments: false
 toc: true
 ---
 
-# Table of Contents
-### Terms of Service
-#### 1. Terms
-#### 2. Use License
-#### 3. Disclaimer
-#### 4. Limitations
-#### 5. Revisions and Errata
-#### 6. Links
-#### 7. Site Terms of Use Modifications
-#### 8. Governing Law
 
 <br>
 <br>
