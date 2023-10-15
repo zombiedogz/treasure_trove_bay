@@ -22,6 +22,7 @@ So what are you waiting for? Start exploring our blog today and let the thrill o
 </p>
 </div>
 
+<!-- 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
@@ -33,4 +34,5 @@ So what are you waiting for? Start exploring our blog today and let the thrill o
 
 </div>
 </div>
+-->
 </div>
