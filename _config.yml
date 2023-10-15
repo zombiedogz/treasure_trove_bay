@@ -4,7 +4,7 @@ title: "⮢ Treasure Trove Bay"
 description: "Lifestyle, Travel, Products and Reviews"
 logo: 'assets/images/logo.png'
 favicon: 'treasure_trove_bay/assets/images/logo.png'
-baseurl: /treasure_trove_bay
+baseurl: /
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
