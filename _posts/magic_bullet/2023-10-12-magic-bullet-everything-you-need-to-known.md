@@ -11,4 +11,4 @@ appliances, Kitchen appliances, Blenders, Food processors, Small kitchen applian
 image: assets/images/magic_bullet_blender.jpg
 ---
 
-This is the first post test
+Stay Tuned...Coming Soon!!!
