@@ -8,7 +8,7 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<img src="/treasure_trove_bay/assets/images/maplogo.png" alt="Carrot" width="300" height="300" style="float: right; margin-right: 20px;">
+<img src="/assets/images/maplogo.png" alt="Map Logo" width="300" height="300" style="float: right; margin-right: 20px;">
 
 <h3>Welcome to Treasure Trove Bay, your blog for all things lifestyle, travel, products, and reviews!</h3> 
 
