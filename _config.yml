@@ -7,7 +7,7 @@ favicon: 'treasure_trove_bay/assets/images/logo.png'
 baseurl: /
 google_analytics: 'G-J6Y66TDQZ7'
 disqus: '' 
-mailchimp-list: 'http://eepurl.com/iCwjdI'
+mailchimp-list: 'https://treasuretrovebay.us21.list-manage.com/subscribe/post?u=cda27580cffc239e4d6b4a522&id=1fe4646bdf'
 include: ["_pages"]
 permalink: /:title/
 
