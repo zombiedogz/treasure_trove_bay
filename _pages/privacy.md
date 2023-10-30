@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Website Terms
+title: Website Privacy
 permalink: /privacy
 comments: false
 ---
