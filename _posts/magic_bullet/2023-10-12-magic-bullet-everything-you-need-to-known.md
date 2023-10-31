@@ -3,7 +3,7 @@ layout: post
 title:  "Magic Bullet Blender - Everything you Need to Know!"
 author: jack
 featured: true
-hidden: true
+hidden: false
 rating: 4.5
 tags: [Original, Silver]
 categories: [ Magic Bullet Blender, Household
