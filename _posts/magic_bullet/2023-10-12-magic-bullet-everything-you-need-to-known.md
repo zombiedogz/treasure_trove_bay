@@ -8,7 +8,8 @@ rating: 4.5
 tags: [Original, Silver]
 categories: [ Magic Bullet Blender, Household
 appliances, Kitchen appliances, Blenders, Food processors, Small kitchen appliances ]
-image: ![Test](assets/images/magic_bullet_blender.jpg)
+image: assets/images/magic_bullet_blender.jpg
+image-text: "This is a test"
 ---
 
 Stay Tuned...Coming Soon!!!
