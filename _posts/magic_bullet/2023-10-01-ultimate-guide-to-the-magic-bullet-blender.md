@@ -111,13 +111,13 @@ My expertise in crafting a myriad of recipes, coupled with my exhaustive knowled
 
 ## For Example in the morning I might:
 
- ### Breakfast
+### Breakfast
   * Grind Fresh Coffee Grounds
   * Grind Fresh Cinnamon for my Oatmeal
   * Grind Fresh Flax Seed Meal for my Oatmeal
   * Blend Fresh pre soaked dates for my Oatmeal
 
- ### Lunch
+### Lunch
   * Grind Fresh Mustard Seeds powder for my Broccoli
   * Grind Fresh Black Pepper
   * Grind Fresh Chipotle Pepper
