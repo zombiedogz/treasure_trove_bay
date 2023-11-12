@@ -100,7 +100,7 @@ My expertise in crafting a myriad of recipes, coupled with my exhaustive knowled
  5. **Easy Cleanup**: There are two basic parts - the cup and the blade. This makes cleanup a breeze.  Hand wash all parts. All parts of the Magic Bullet are **NOT** dishwasher safe. So do not put any Magic Bullet Blender parts into the dishwasher as it may warp or degrade the plastic for the cups or blades.
 
 
-# Benefits of Using the Magic Bullet
+## Benefits of Using the Magic Bullet
 
  1. **Time-Saver**: The Magic Bullet's swift performance streamlines your meal preparation, allowing you to whip up nutritious smoothies, soups, and snacks in a matter of ~~seconds~~. Uh hum, yeah not really. It is more like minutes, but still really fast. 
  2. **Nutrient Preservation**: Using whole foods or fruits you retains the vital nutrients in your ingredients, providing you with healthier, more vibrant meals and drinks. That is a major bonus over using powders mixes. 
