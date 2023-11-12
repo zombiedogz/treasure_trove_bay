@@ -86,7 +86,7 @@ I have also ventured into repairs, mastering the inner workings of this remarkab
 My expertise in crafting a myriad of recipes, coupled with my exhaustive knowledge of dos and don'ts, makes me a true authority when it comes to the Magic Bullet Blender. Is it still relevant today?
 
 
-# Let start with the basics: Features and Benefits
+# Lets start with the basics: Features and Benefits
 
 ## **Key Features of the Magic Bullet**
  1. **Compact Design**: The Magic Bullet's sleek and space-saving design is perfect for small kitchens. It won't monopolize your counter space and can easily be stored away when not in use. It is Ideal for:
@@ -98,4 +98,39 @@ My expertise in crafting a myriad of recipes, coupled with my exhaustive knowled
  3. **Motor Speed**: Gets the job done for small easy items. It is suited for light and easy jobs, but not for tough or thick ingredients.
  4. **Multiple Cup Sizes**: The Magic Bullet comes with various cup sizes, including single-serve cups and larger containers, allowing you to prepare anything from a quick snack to an ideal size smoothie of your favorite recipe. With larger blenders the tendency is to make too large of a smoothie. With the ToGo lids you can blend and run!
  5. **Easy Cleanup**: There are two basic parts - the cup and the blade. This makes cleanup a breeze.  Hand wash all parts. All parts of the Magic Bullet are **NOT** dishwasher safe. So do not put any Magic Bullet Blender parts into the dishwasher as it may warp or degrade the plastic for the cups or blades.
+
+
+# Benefits of Using the Magic Bullet
+
+ 1. Time-Saver: The Magic Bullet's swift performance streamlines your meal preparation, allowing you to whip up nutritious smoothies, soups, and snacks in a matter of ~~seconds~~. Uh hum, yeah not really. It is more like minutes, but still really fast. 
+ 2. Nutrient Preservation: Using whole foods or fruits you retains the vital nutrients in your ingredients, providing you with healthier, more vibrant meals and drinks. That is a major bonus over using powders mixes. 
+ 3. Budget-Friendly: Investing in a Magic Bullet can save you money in the long run. You can create your own smoothies, sauces, and baby food, reducing the need for expensive store-bought options. You can buy ten Magic Bullet Blenders for the same price as one of the high end blenders like a Vitamix. 
+ 4. Space-Efficient: Its compact design makes it perfect for small kitchens and those with limited storage space. You can have a powerful blender without overcrowding your countertop. If you are a traveler or camper it makes an ideal companion for your on the go needs.
+ 5. Endless Culinary Creativity: The Magic Bullet's versatility knows no bounds. It enables you to explore a multitude of recipes, from creamy soups to delectable desserts, all within one easy-to-use appliance. It should be noted that it is best suited for a single serving and not for a family, unless you have many extra cups.
+ 6. Healthier Eating Habits: With the Magic Bullet, you can easily incorporate more fruits and vegetables into your diet, promoting a healthier lifestyle without sacrificing flavor or convenience. I am using my Magic Bullet from one to ten times a day.
+
+## For Example in the morning I might:
+ ### Breakfast:
+  * Grind Fresh Coffee Grounds
+  * Grind Fresh Cinnamon for my Oatmeal
+  * Grind Fresh Flax Seed Meal for my Oatmeal
+  * Blend Fresh pre soaked dates for my Oatmeal
+ ### Lunch
+  * Grind Fresh Mustard Seeds powder for my Broccoli
+  * Grind Fresh Black Pepper
+  * Grind Fresh Chipotle Pepper
+  * Grind Fresh Black Cumin
+### Snack
+  * Grind Toasted Sesame Seeds into Tahini
+  * Grind Dehydrated Garlic into garlic powder
+  * Grind Dehydrated Onions into onion powder
+  * Grind Dehydrated Lime Peels into Lime Powder
+  * Blend Chickpeas and Tahini and the above ingredients into Hummus
+### Dinner
+  * Blend fresh cooked mushrooms, spices and chickpeas into a mushroom soup
+  * Blend tomatoes paste, water and spices into a tomatoes sauce
+### Desert
+  * Frozen Banana, Avocado, Spinach into a smoothie
+
+
 
