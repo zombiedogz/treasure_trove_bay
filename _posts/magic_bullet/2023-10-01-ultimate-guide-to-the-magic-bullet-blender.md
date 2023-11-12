@@ -110,25 +110,29 @@ My expertise in crafting a myriad of recipes, coupled with my exhaustive knowled
  6. Healthier Eating Habits: With the Magic Bullet, you can easily incorporate more fruits and vegetables into your diet, promoting a healthier lifestyle without sacrificing flavor or convenience. I am using my Magic Bullet from one to ten times a day.
 
 ## For Example in the morning I might:
- ### Breakfast:
+ ### Breakfast
   * Grind Fresh Coffee Grounds
   * Grind Fresh Cinnamon for my Oatmeal
   * Grind Fresh Flax Seed Meal for my Oatmeal
   * Blend Fresh pre soaked dates for my Oatmeal
+ 
  ### Lunch
   * Grind Fresh Mustard Seeds powder for my Broccoli
   * Grind Fresh Black Pepper
   * Grind Fresh Chipotle Pepper
   * Grind Fresh Black Cumin
+
 ### Snack
   * Grind Toasted Sesame Seeds into Tahini
   * Grind Dehydrated Garlic into garlic powder
   * Grind Dehydrated Onions into onion powder
   * Grind Dehydrated Lime Peels into Lime Powder
   * Blend Chickpeas and Tahini and the above ingredients into Hummus
+
 ### Dinner
   * Blend fresh cooked mushrooms, spices and chickpeas into a mushroom soup
   * Blend tomatoes paste, water and spices into a tomatoes sauce
+
 ### Desert
   * Frozen Banana, Avocado, Spinach into a smoothie
 
