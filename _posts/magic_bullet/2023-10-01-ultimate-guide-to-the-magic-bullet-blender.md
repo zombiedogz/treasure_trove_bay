@@ -196,5 +196,6 @@ Well that is what all the hype would like you to believe. The reality is there a
 
 This is my favorite all in one blade for blending and grinding. I do not use this blade for Ice Crushing. I use it for blending and grinding, because it does not have the same issues as the other two blade designs.
 
+![Magic Bullet Blender Blade Comparsion Table]({{ site.baseurl }}/assets/images/magic_bullet_blade_comparsion_table.png)
 
 
