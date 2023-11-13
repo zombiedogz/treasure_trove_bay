@@ -175,19 +175,23 @@ All of these are under the Nutribullet Umbrella of product Families.
 
 Central to the Magic Bullet Blender's prowess is its cutting-edge blade technology, a sophisticated system designed to elevate the blending, chopping, and grinding experience. The blender doesn't just mix ingredients; it orchestrates a culinary symphony, thanks to its versatile array of blade attachments.
 
-The Magic Bullet's blade attachments are a marvel of engineering, each designed with a specific culinary task in mind. From the standard cross-blade for general blending to specialized blades for chopping and grinding, the system empowers users to seamlessly transition between different functions, unlocking a world of culinary possibilities.
+Well that is what all the hype would like you to believe. The reality is there are two major blade designs. The Cross Blade and the Flat Blade. For the small volume of the cups they get the necessary job done. However I would not call them marvels. 
 
+ * **Cross Blade**: The Cross Blade strength is for Blending. 
+ * **The Ice Crusher Blade**: This is of a similar design as the Cross Blade but has a metal base shield where the standard cross blade does not.
+ * **Flat Blade**: The Flat Blade is best for grinding like spices and nut butters.
 
 ## Explanation of How the Blades Handle Different Tasks
 
-**Blending**: The cross-blade, the workhorse of the Magic Bullet, excels in blending tasks. Its multi-pronged design creates a vortex within the blending cup, efficiently liquefying fruits, vegetables, and other ingredients. The high-torque motor complements the blade's design, ensuring a smooth and consistent blend every time.
+**Blending**: The cross-blade when used in a continuous blending mode, this is workhorse of the Magic Bullet, excels in blending tasks. Its multi-pronged design creates a vortex within the blending cup, efficiently liquefying fruits, vegetables, and other soft ingredients that are not thick. 
+ * Issue: The problem with this blade is if it is used for too long the blade shaft heats up to the point it will melt the plastic in the base and any liquid ingredients will leak out into the Magic Bullet Base.
+**Chopping**: The cross-blade when used in a pulsing action in very short bursts. Will chop up ingredients. However do not pulse for very long as the ingredients will turn into a blend.
+ * Issue: It is very important to pulse slowly and monitor so not to over shop.
+**Grinding**: When it comes to grinding tasks the flat blade is best for this. Whether it's coffee beans or nuts for butter, the Magic Bullet's specialized grinding blade shines. The blade's unique structure is optimized for breaking down hard or dense ingredients, ensuring a consistent grind.
+ *Issue: The problem with this blade is if it is used for too long the blade shaft heats up to the point it melts the plastic surface of the base of the blade and the plastic bits shear off into your ingredients resulting in black plastic bits in your mix.
+**Crushing**: The Ice Crusher blade is best for this, but it really does not do a great job. What is nice about this blade is that it can be used for blending or grinding. Because of the metal base it handles the heat load much better than the other two blades.
 
-**Chopping**: For those moments when precision is key, the Magic Bullet's chopping blade takes center stage. Designed with a flat, horizontal configuration, it effortlessly transforms ingredients like onions, herbs, or nuts into finely chopped perfection. The speed and precision of the blade make it an invaluable tool for meal prep.
+This is my favorite all in one blade for blending and grinding. I do not use this blade for Ice Crushing. I use it for blending and grinding, because it does not have the same issues as the other two blade designs.
 
-**Grinding**: When it comes to grinding tasks, whether it's coffee beans or nuts for butter, the Magic Bullet's specialized grinding blade shines. The blade's unique structure is optimized for breaking down hard or dense ingredients, ensuring a consistent grind that meets the highest culinary standards.
-
-The true magic lies in the seamless interchangeability of these blades. Users can effortlessly switch from blending a morning smoothie to chopping ingredients for salsa or grinding spices for a flavorful curry—all with the swift change of a blade attachment.
-
-Beyond the physical design, the engineering precision ensures that the blades maintain their sharpness and durability over time, delivering reliable performance with each use. This versatility and reliability in blade technology position the Magic Bullet Blender as a kitchen workhorse, ready to tackle a spectrum of culinary tasks with finesse.
 
 
