@@ -187,10 +187,10 @@ Well that is what all the hype would like you to believe. The reality is there a
  * Issue: The problem with this blade is if it is used for too long the blade shaft heats up to the point it will melt the plastic in the base and any liquid ingredients will leak out into the Magic Bullet Base.
 
 **Chopping**: The cross-blade when used in a pulsing action in very short bursts. Will chop up ingredients. However do not pulse for very long as the ingredients will turn into a blend.
- * Issue: It is very important to pulse slowly and monitor so not to over shop.
+ * ***Issue***: It is very important to pulse slowly and monitor so not to over shop.
 
 **Grinding**: When it comes to grinding tasks the flat blade is best for this. Whether it's coffee beans or nuts for butter, the Magic Bullet's specialized grinding blade shines. The blade's unique structure is optimized for breaking down hard or dense ingredients, ensuring a consistent grind.
- *Issue: The problem with this blade is if it is used for too long the blade shaft heats up to the point it melts the plastic surface of the base of the blade and the plastic bits shear off into your ingredients resulting in black plastic bits in your mix.
+ * **Issue**: The problem with this blade is if it is used for too long the blade shaft heats up to the point it melts the plastic surface of the base of the blade and the plastic bits shear off into your ingredients resulting in black plastic bits in your mix.
 
 **Crushing**: The Ice Crusher blade is best for this, but it really does not do a great job. What is nice about this blade is that it can be used for blending or grinding. Because of the metal base it handles the heat load much better than the other two blades.
 
