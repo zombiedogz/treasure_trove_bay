@@ -160,3 +160,12 @@ It has evolved over time and is now known as the O.G. Magic Bullet. It has branc
 
 All of these are under the Nutribullet Umbrella of product Families.
 
+
+# Design and Build Quality
+
+## Detailed Examination of the Compact Design
+
+**The Good**: At the heart of the Magic Bullet Blender's appeal lies its meticulously crafted compact design. The sleek and space-saving aesthetic of this kitchen dynamo is a testament to its thoughtful engineering. Standing as a countertop essential, the Magic Bullet elegantly combines form and function, creating an appliance that not only performs admirably but does so without monopolizing valuable kitchen counter real estate.
+
+**The Bad**: One of the major design flaws is in the base. If there is a spill inside the base it is very hard to clean. This issue is addressed in the Nutribullet with a through hole drain. In the Magic Bullet the inside area is not sealed so any liquid drains down inside the and around the motor. It is impossible to clean without taking it completely apart. The other design issue is the motor base is not secure around the fan area. If you are tempted to shake the Magic Bullet while it is on to loosen up some thick ingredients it may break the cooling fan blades.
+
