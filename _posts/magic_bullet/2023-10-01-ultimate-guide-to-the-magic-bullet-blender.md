@@ -44,6 +44,10 @@ My experience is this is the ideal size for most things as larger blenders allow
 
 The Magic Bullet Blender is designed for individuals or families seeking a compact, versatile, and user-friendly blender for everyday kitchen tasks.
 
+**Amazon Affiliate Link**
+
+[Buy Orginal Magic Bullet Blender](https://amzn.to/3spHs3F){:target="_blank" .btn .btn-primary}
+
 
 # What can the Magic Bullet Blender Actually Do?
 
