@@ -32,8 +32,11 @@ The Magic Bullet is often used for making smoothies, sauces, nut butter, and oth
 
 Later I will show how it is successful in some areas and fails in others and its limitations.
 
+<br>
+<p align="center">
+ <img src="/assets/images/magic_bullet_og.png" alt="Magic Bullet Blender OG">
+</p>
 
-![Magic Bullet Blender OG]({{ site.baseurl }}/assets/images/magic_bullet_og.png)
 
 # Who is the Magic Bullet Blender Best For?
 
@@ -105,6 +108,7 @@ My expertise in crafting a myriad of recipes, coupled with my exhaustive knowled
  4. **Multiple Cup Sizes**: The Magic Bullet comes with various cup sizes, including single-serve cups and larger containers, allowing you to prepare anything from a quick snack to an ideal size smoothie of your favorite recipe. With larger blenders the tendency is to make too large of a smoothie. With the ToGo lids you can blend and run!
  5. **Easy Cleanup**: There are two basic parts - the cup and the blade. This makes cleanup a breeze.  Hand wash all parts. All parts of the Magic Bullet are **NOT** dishwasher safe. So do not put any Magic Bullet Blender parts into the dishwasher as it may warp or degrade the plastic for the cups or blades.
 
+<br>
 <p align="center">
  <img src="/assets/images/Magic_Bullet_5_Benefits_of_Using.png" alt="Magic Bullet Blender 5 Benefits">
 </p>
