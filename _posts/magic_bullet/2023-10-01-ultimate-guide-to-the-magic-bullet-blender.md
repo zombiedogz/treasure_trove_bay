@@ -33,6 +33,8 @@ The Magic Bullet is often used for making smoothies, sauces, nut butter, and oth
 Later I will show how it is successful in some areas and fails in others and its limitations.
 
 
+![Magic Bullet Blender OG]({{ site.baseurl }}/assets/images/magic_bullet_og.png)
+
 # Who is the Magic Bullet Blender Best For?
 
 My experience is this is the ideal size for most things as larger blenders allow making too much of an item and it spoils before it can be consumed. Making fresh ingredients means no preservatives and better tastes. However the trade off is shorter shelf life.
@@ -46,7 +48,7 @@ The Magic Bullet Blender is designed for individuals or families seeking a compa
 
 **Amazon Affiliate Link**
 
-[Buy Orginal Magic Bullet Blender](https://amzn.to/3spHs3F){:target="_blank" .btn .btn-primary}
+[Buy Original Magic Bullet Blender](https://amzn.to/3spHs3F){:target="_blank" .btn .btn-primary}
 
 
 # What can the Magic Bullet Blender Actually Do?
