@@ -200,8 +200,8 @@ This is my favorite all in one blade for blending and grinding. I do not use thi
 
 **Amazon Affiliate Links**
 
-[Buy Cross Blade](https://amazon.com){:target="_blank" .btn .btn-primary}
-[Buy Flat Blade](https://amazon.com){:target="_blank" .btn .btn-primary}
-[Buy Ice Crusher](https://amazon.com){:target="_blank" .btn .btn-primary}
+[Buy Cross Blade](https://amzn.to/49xsVDz){:target="_blank" .btn .btn-primary}
+[Buy Flat Blade](https://amzn.to/3SDfPyu){:target="_blank" .btn .btn-primary}
+[Buy Ice Crusher](https://amzn.to/3QB1Iar){:target="_blank" .btn .btn-primary}
 
 
