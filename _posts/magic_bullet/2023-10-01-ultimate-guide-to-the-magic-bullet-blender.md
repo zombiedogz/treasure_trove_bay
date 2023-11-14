@@ -110,7 +110,7 @@ My expertise in crafting a myriad of recipes, coupled with my exhaustive knowled
 
 <br>
 <p align="center">
- <img src="/assets/images/Magic_Bullet_5_Benefits_of_Using.png" alt="Magic Bullet Blender 5 Benefits">
+ <img src="/assets/images/magic_bullet_5_benefits_of_using.png" alt="Magic Bullet Blender 5 Benefits">
 </p>
 
 ## Benefits of Using the Magic Bullet
