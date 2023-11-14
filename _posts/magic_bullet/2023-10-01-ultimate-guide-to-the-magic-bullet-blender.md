@@ -105,7 +105,9 @@ My expertise in crafting a myriad of recipes, coupled with my exhaustive knowled
  4. **Multiple Cup Sizes**: The Magic Bullet comes with various cup sizes, including single-serve cups and larger containers, allowing you to prepare anything from a quick snack to an ideal size smoothie of your favorite recipe. With larger blenders the tendency is to make too large of a smoothie. With the ToGo lids you can blend and run!
  5. **Easy Cleanup**: There are two basic parts - the cup and the blade. This makes cleanup a breeze.  Hand wash all parts. All parts of the Magic Bullet are **NOT** dishwasher safe. So do not put any Magic Bullet Blender parts into the dishwasher as it may warp or degrade the plastic for the cups or blades.
 
+<p align="center">
 ![Magic Bullet Blender OG]({{ site.baseurl }}/assets/images/Magic_Bullet_5_Benefits_of_Using.png)
+</p>
 
 ## Benefits of Using the Magic Bullet
 
