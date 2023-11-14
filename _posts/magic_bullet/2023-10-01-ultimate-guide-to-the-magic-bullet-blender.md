@@ -198,5 +198,6 @@ This is my favorite all in one blade for blending and grinding. I do not use thi
 
 ![Magic Bullet Blender Blade Comparsion Table]({{ site.baseurl }}/assets/images/magic_bullet_blade_comparsion_table.png)
 
-[Amazon - Buy Cross Blade](https://amazon.com){:target="_blank" .btn}
+Amazon Affiliate Links
+[Buy Cross Blade](https://amazon.com){:target="_blank" .btn .btn-primary}
 
