@@ -203,7 +203,7 @@ Well that is what all the hype would like you to believe. The reality is there a
  * **The Ice Crusher Blade**: This is of a similar design as the Cross Blade but has a metal base shield where the standard cross blade does not.
  * **Flat Blade**: The Flat Blade is best for grinding like spices and nut butters.
 
-## Explanation of How the Blades Handle Different Tasks
+## How the Blades Handle Different Tasks
 
 **Blending**: The cross-blade when used in a continuous blending mode, this is workhorse of the Magic Bullet, excels in blending tasks. Its multi-pronged design creates a vortex within the blending cup, efficiently liquefying fruits, vegetables, and other soft ingredients that are not thick. 
  * ***Issue***: The problem with this blade is if it is used for too long the blade shaft heats up to the point it will melt the plastic in the base and any liquid ingredients will leak out into the Magic Bullet Base.
@@ -225,5 +225,7 @@ This is my favorite all in one blade for blending and grinding. I do not use thi
 [Buy Cross Blade](https://amzn.to/3u7LRse){:target="_blank" .btn .btn-primary}
 [Buy Flat Blade](https://amzn.to/3SDfPyu){:target="_blank" .btn .btn-primary}
 [Buy Ice Crusher](https://amzn.to/3QB1Iar){:target="_blank" .btn .btn-primary}
+
+
 
 
