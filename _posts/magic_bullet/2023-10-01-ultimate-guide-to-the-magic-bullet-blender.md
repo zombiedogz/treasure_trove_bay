@@ -21,12 +21,12 @@ I will be assessing whether it stands the test of time or falls short of our ske
 
 With over two decades of dedicated use, I can confidently assert that the Magic Bullet Blender has stood the test of time and remains an indispensable kitchen companion. My extensive experience with this appliance has allowed me to explore its every facet, uncovering the good, bad, and even the occasional ugly aspects and its limitations. 
 
+<br>
 
 # What is the Magic Bullet Blender?
 
 The Magic Bullet Blender Family currently has three active members. The Magic Bullet Original, Magic Bullet Mini and the Magic Bullet portable. Each has its own features and purpose. We will just be looking at the Magic Bullet Original in this Guide. Below is a comparison chart of features. Most notable is that the Magic Bullet Original is the most powerful of the three.
 
-<br>
 <p align="center">
  <img src="/assets/images/magic_bullet_family.png" alt="Magic Bullet Family">
 </p>
