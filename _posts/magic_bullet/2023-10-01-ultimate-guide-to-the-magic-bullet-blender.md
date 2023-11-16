@@ -24,7 +24,15 @@ With over two decades of dedicated use, I can confidently assert that the Magic 
 
 # What is the Magic Bullet Blender?
 
-The Magic Bullet is a compact and versatile blender that gained popularity for its space-saving design and multifunctional capabilities. It is known for its ability to handle various kitchen tasks, including blending, chopping, and grinding. 
+The Magic Bullet Blender Family currently has three active members. The Magic Bullet Original, Magic Bullet Mini and the Magic Bullet portable. Each has its own features and purpose. We will just be looking at the Magic Bullet Original in this Guide. Below is a comparison chart of features. Most notable is that the Magic Bullet Original is the most powerful of the three.
+
+<br>
+<p align="center">
+ <img src="/assets/images/magic_bullet_family.png" alt="Magic Bullet Family">
+</p>
+
+The Magic Bullet Original is a compact and versatile blender that gained popularity for its space-saving design and multifunctional capabilities. It is known for its ability to handle various kitchen tasks, including blending, chopping, and grinding.
+
 
 The key features of the Magic Bullet include its compact design, versatile blades for different tasks, a high-speed motor for efficient blending, multiple cup sizes, and easy cleanup as all parts are dishwasher safe. 
 
