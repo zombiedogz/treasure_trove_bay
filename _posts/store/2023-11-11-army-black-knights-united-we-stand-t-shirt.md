@@ -7,7 +7,7 @@ hidden: false
 rating: 4.5
 tags: [T-Shirt]
 categories: [Clothing]
-image: assets/images/magic_bullet_blender.jpg
+
 image-text: "Army Black Knights United We Stand T-Shirt!"
 toc: false
 ---
