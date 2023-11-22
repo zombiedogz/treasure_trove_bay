@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Army Black Knights United We Stand T-Shirt!"
+title:  "U.S. Army Black Knights United We Stand T-Shirt!"
 author: jack
 featured: true
 hidden: false
@@ -8,13 +8,13 @@ rating: 4.5
 tags: [T-Shirt]
 categories: [Clothing]
 image: assets/images/army_black_knights_rivalry_replica_jersey_t-shirt.png
-image-text: "Army Black Knights United We Stand T-Shirt!"
+image-text: "U.S. Army Black Knights United We Stand T-Shirt!"
 toc: false
 ---
 
-## My Favorite T-Shirt: Men's Nike Tan Army Black Knights Rivalry Replica United We Stand # 11 Jersey T-Shirt
+## My Favorite T-Shirt: Men's Nike Tan Army Black Knights Rivalry Replica United We Stand #11 Jersey T-Shirt
 
-I'm a big fan of the Army Black Knights, so I was thrilled to find this rare Men's Nike Tan Army Black Knights Rivalry Replica United We Stand # 11 Jersey T-Shirt. It's a medium-sized shirt that features the number 11 on the back. 
+I'm a big fan of the Army Black Knights, so I was thrilled to find this rare Men's Nike Tan Army Black Knights Rivalry Replica United We Stand #11 Jersey T-Shirt. It's a medium-sized shirt that features the number 11 on the back. 
 
 It is part of the Rivalry Replica collection by Nike and is designed to show support for the Army Black Knights in their game against the Navy Midshipmen. The shirt is made of 100% cotton and is officially licensed by Nike. It has short sleeves and screen-printed graphics of the Army Black Knights logo and team name.
 
