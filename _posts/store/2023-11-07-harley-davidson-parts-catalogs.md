@@ -7,7 +7,7 @@ hidden: false
 rating: 4.5
 tags: [Books]
 categories: [Motorcycles]
-image: assets/images/harley-davidson_parts_catalogs.png
+image: assets/images/harley-davidson_parts_catalogs.jpg
 image-text: "Harley-Davidson Parts Catalogs"
 toc: false
 ---
