@@ -15,7 +15,7 @@ toc: false
 While you can find the Harley-Davidson Parts Catalogs online, they are very hard to use. Especially when you just want to sit down and thumb through the catalog. There is nothing better than that tactile feeling of a real book in your hand.
 We have a large collection of Harley-Davidson Parts Catalogs that we are adding to our store.
 
-* Sportster Models (1986 - 2020)
+* __Sportster Models (1986 - 2020)__
 
 Currently we have the Harley-Davidson Parts Catalogs for Sportster Models that offer detailed information on various components and accessories specifically designed for each year's Sportster Models from 1986 through 2020. These individual catalogs are tailored to provide comprehensive and accurate details about the parts and accessories that are unique to each model year.
 
