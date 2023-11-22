@@ -12,13 +12,15 @@ image-text: "Army Black Knights United We Stand T-Shirt!"
 toc: false
 ---
 
-# My Favorite T-Shirt: 
+## My Favorite T-Shirt: Men's Nike Tan Army Black Knights Rivalry Replica United We Stand # 11 Jersey T-Shirt
 
-## Men's Nike Tan Army Black Knights Rivalry Replica United We Stand # 11 Jersey T-Shirt
+I'm a big fan of the Army Black Knights, so I was thrilled to find this rare Men's Nike Tan Army Black Knights Rivalry Replica United We Stand # 11 Jersey T-Shirt. It's a medium-sized shirt that features the number 11 on the back. 
 
-I'm a big fan of the Army Black Knights, so I was thrilled to find this rare Men's Nike Tan Army Black Knights Rivalry Replica United We Stand # 11 Jersey T-Shirt. It's a medium-sized shirt that features the number 11 on the back. It is part of the Rivalry Replica collection by Nike and is designed to show support for the Army Black Knights in their game against the Navy Midshipmen. The shirt is made of 100% cotton and is officially licensed by Nike. It has short sleeves and screen-printed graphics of the Army Black Knights logo and team name.
+It is part of the Rivalry Replica collection by Nike and is designed to show support for the Army Black Knights in their game against the Navy Midshipmen. The shirt is made of 100% cotton and is officially licensed by Nike. It has short sleeves and screen-printed graphics of the Army Black Knights logo and team name.
 
-I love the way this shirt looks and feels. It's comfortable and stylish, and it's perfect for showing my support for my favorite team. I also appreciate the historical symbolism of the shirt. The number 11 on the back represents September 11, and the font of the number represents the Twin Towers of the World Trade Center. The shirt also features the US Army Special Forces Motto De Oppresso Liber, which is Latin and means "to Free from Oppression."
+I love the way this shirt looks and feels. It's comfortable and stylish, and it's perfect for showing my support for my favorite team. I also appreciate the historical symbolism of the shirt. The number 11 on the back represents September 11, and the font of the number represents the Twin Towers of the World Trade Center. 
+
+The shirt also features the US Army Special Forces Motto De Oppresso Liber, which is Latin and means "to Free from Oppression."
 
 I'm so glad I was able to find this rare shirt. It's a great piece of memorabilia that I will cherish for years to come.
 
@@ -45,6 +47,5 @@ I'm so glad I was able to find this rare shirt. It's a great piece of memorabili
 
 * New with Tags
 
-Follow us for more Treasures to be had!
+[Buy on eBay](https://ebay.us/jrofPV){:target="_blank" .btn .btn-primary}
 
-Visit our store for more great Treasures!
