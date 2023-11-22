@@ -234,6 +234,7 @@ This is my favorite all in one blade for blending and grinding. I do not use thi
 [Buy Flat Blade](https://amzn.to/3SDfPyu){:target="_blank" .btn .btn-primary}
 [Buy Ice Crusher](https://amzn.to/3QB1Iar){:target="_blank" .btn .btn-primary}
 
+<br>
 
 # Motor Performance
 
