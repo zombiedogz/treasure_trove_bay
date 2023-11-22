@@ -235,5 +235,18 @@ This is my favorite all in one blade for blending and grinding. I do not use thi
 [Buy Ice Crusher](https://amzn.to/3QB1Iar){:target="_blank" .btn .btn-primary}
 
 
+# Motor Performance
+
+For a personal blender the motor gets the job done. It is only 250 watts for this model. It is way lower than the Nutribullet which is 900 watts. However it is 50 watts higher than the Magic Bullet Mini which is 200 watts. This motor will grind, mix and blend most all light ingredients. It is perfect for small quantities and personal serving sizes of light ingredients. 
+
+The Magic Bullet has no issues with grinding coffee, spices. It will also make soft smoothies very well with lighter frozen fruits in small portion sizes. 
+
+However it struggles with thick ingredients such as a very thick smoothie like soft serve ice cream and thicker dips like hummus or beans dips.
+
+It can crush ice but it does so very poorly.
+When making thicker dips the motor will bog down and even smoke as it struggles with too thick of ingredients. Adding more water or other liquid will help with making it easier for the magic bullet to blend.
+
+I have made lots of dips and will make them. It just has a challenging time doing it.
+
 
 
