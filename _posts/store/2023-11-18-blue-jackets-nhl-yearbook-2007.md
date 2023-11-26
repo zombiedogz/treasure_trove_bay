@@ -2,7 +2,7 @@
 layout: post
 title:  "Blue Jackets NHL Yearbook 2007- 2008"
 author: jack
-featured: true
+featured: false
 hidden: false
 rating: 4.5
 tags: [Blue Jackets]
