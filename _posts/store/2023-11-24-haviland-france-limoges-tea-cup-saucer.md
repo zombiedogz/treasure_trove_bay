@@ -4,7 +4,7 @@ title:  "Haviland & Co. France Limoges Tea Cup & Saucer"
 author: jack
 featured: false
 hidden: false
-rating: 4.7
+rating: 4.0
 tags: [haviland]
 categories: [Collectibles, Glassware]
 image: assets/images/haviland_france_limoges_tea_cup_saucer.png
