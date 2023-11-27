@@ -33,3 +33,5 @@ Whether you're a seasoned Star Wars aficionado or a newcomer to this extraordina
 Expand Your Star Wars Collection
 
 Enrich your collection with this thrilling graphic novel and experience the electrifying energy of the Resistance's unwavering fight for freedom. Don't miss out on the opportunity to own a piece of the Star Wars legacy with this captivating addition to the Poe Dameron series. May the Force be with you!
+
+[Buy on eBay](https://ebay.us/8EF5qS){:target="_blank" .btn .btn-primary}
