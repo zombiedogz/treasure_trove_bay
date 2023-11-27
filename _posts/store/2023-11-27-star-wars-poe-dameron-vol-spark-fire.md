@@ -7,7 +7,7 @@ hidden: false
 rating: 4.5
 tags: [Books]
 categories: [Graphic Novels]
-image: assets/images/star_wars_poe-dameron_vol_spark_fire.jpg
+image: assets/images/star_wars_poe_dameron_vol_spark_fire.png
 image-text: "Star Wars: Poe Dameron Vol. 5 The Spark and The Fire"
 toc: false
 ---
