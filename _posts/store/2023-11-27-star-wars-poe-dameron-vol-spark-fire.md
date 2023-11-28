@@ -14,7 +14,7 @@ toc: false
 
 ## Star Wars: Poe Dameron Vol. 5 The Spark and The Fire (Marvel, 2018) Soule
 
-Embark on an Epic Galactic Adventure with Star Wars: Poe Dameron Vol. 5 - The Spark and The Fire
+__Embark on an Epic Galactic Adventure with Star Wars: Poe Dameron Vol. 5 - The Spark and The Fire__
 
 Get ready for an adrenaline-fueled journey through the vast expanse of space with "Star Wars: Poe Dameron Vol. 5 - The Spark and The Fire," a captivating graphic novel that will ignite your passion for the legendary Star Wars universe. Join the fearless Resistance pilot, Poe Dameron, as he navigates perilous challenges and embarks on exhilarating adventures that will leave you breathless.
 
