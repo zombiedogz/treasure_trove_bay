@@ -2,7 +2,7 @@
 layout: post
 title:  "Peleides Blue Morpho, Emperor, Butterfly"
 author: jack
-featured: false
+featured: true
 hidden: false
 rating: 4.5
 tags: [photograph]
