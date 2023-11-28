@@ -8,7 +8,7 @@ rating: 4.5
 tags: [Books]
 categories: [Graphic Novels]
 image: assets/images/smith_wesson_boots_breach_coyote_side_zip.png
-image-text: "Smith & Wesson Men's Boots, Breach 2.0 (10.5W) Coyote 8in Side-Zip Bootse"
+image-text: "Smith & Wesson Men's Boots, Breach 2.0 (10.5W) Coyote 8in Side-Zip Boots"
 toc: false
 ---
 
