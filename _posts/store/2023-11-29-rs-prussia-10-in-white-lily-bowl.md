@@ -1,5 +1,3 @@
-rs-prussia-10-in-white-lily-bowl
-
 ---
 layout: post
 title:  "R.S. Prussia 10 inch Bowl with Rare White Lily of the Valley"
